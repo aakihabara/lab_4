@@ -1,7 +1,7 @@
-<p align = "center">МИНИСТЕРСТВО НАУКИ И ВЫСШЕГО ОБРАЗОВАНИЯ
-РОССИЙСКОЙ ФЕДЕРАЦИИ
-ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ
-ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ
+<p align = "center">МИНИСТЕРСТВО НАУКИ И ВЫСШЕГО ОБРАЗОВАНИЯ<br>
+РОССИЙСКОЙ ФЕДЕРАЦИИ<br>
+ФЕДЕРАЛЬНОЕ ГОСУДАРСТВЕННОЕ БЮДЖЕТНОЕ<br>
+ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ВЫСШЕГО ОБРАЗОВАНИЯ<br>
 «САХАЛИНСКИЙ ГОСУДАРСТВЕННЫЙ УНИВЕРСИТЕТ»</p>
 <br><br><br><br><br><br>
 <p align = "center">Институт естественных наук и техносферной безопасности<br>Кафедра информатики<br>Коньков Никита Алексеевич</p>
@@ -49,12 +49,12 @@
 21.	Дана непустая и упорядоченная по возрастанию последовательность целых чисел, оканчивающаяся числом 10 000. Определить порядковый номер первого числа, большего заданного n. Если таких чисел в последовательности нет, то на экран должно быть выведено соответствующее сообщение.<br><br>
 22.	Дано натуральное число. Верно ли, что цифра a встречается в нем реже, чем цифра b?<br><br>
 23.	Имеется фрагмент программы в виде оператора цикла с параметром, обеспечивающий вывод на экран "столбиком" всех целых чисел от 10 до 30. Оформить этот фрагмент в виде: а) оператора цикла с предусловием; б) оператора цикла с постусловием.<br><br>
-24.  https://www.codewars.com/kata/head-tail-init-and-last
-25.  https://www.codewars.com/kata/array-deep-count
-26.  https://www.codewars.com/kata/length-of-missing-array
-27.  https://www.codewars.com/kata/pair-of-gloves
-28.  https://www.codewars.com/kata/sorting-by-bits
-29.  https://www.codewars.com/kata/lets-recycle
+24.  https://www.codewars.com/kata/head-tail-init-and-last<br>
+25.  https://www.codewars.com/kata/array-deep-count<br>
+26.  https://www.codewars.com/kata/length-of-missing-array<br>
+27.  https://www.codewars.com/kata/pair-of-gloves<br>
+28.  https://www.codewars.com/kata/sorting-by-bits<br>
+29.  https://www.codewars.com/kata/lets-recycle<br>
 <h1 align = "center">Решение</h1>
     
 <h1 align = "center">Вывод</h1>
